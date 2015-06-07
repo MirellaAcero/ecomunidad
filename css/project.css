@@ -1,0 +1,414 @@
+.container{
+	width: 100%;
+	/*padding-left: 14px;*/
+	/*padding-right: 14px;*/
+	margin: 0px;
+	min-height: 350px;
+}
+.header{
+	width: 100%;
+	height: 143px;
+	background-color: white;
+}
+.row{
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+}
+
+
+.logo {
+width: 42.5%;
+font-size: 0;
+margin: 0 auto;
+}
+.logo img{
+	width: 100%;
+ }
+[class*="col-"] {
+	min-height: 7px;
+	margin-bottom: -4px;
+	padding: 0 0px;
+	float: left;
+}
+a {
+	font-size: 23px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+nav{
+	text-align: right;
+	margin: 58.5px auto;
+	margin-right: 71px;
+}
+.caja4{
+	width: 100%;
+	height: 500px;
+}
+.caja4 img{
+	width: 100%;
+	height: 100%;
+}
+
+p{
+	font-size: 30px;
+}
+.texto{
+	background-color: #dcdada;
+	padding: 88px;
+	padding-le
+	ft: 176px;
+	padding-right: 176px;
+	text-align: center;
+}
+.valores{
+	width: 100%;
+	height:550px;
+}
+.mision{
+	width: 200px;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.vision{
+	width: 200px;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+
+img {
+	width:100%;
+}
+h1{
+	text-align: center;
+	padding: 30px;
+}
+.texto1{
+	width: 100%;
+	height: 300px;
+
+}
+p{
+	font-size: 27px;
+	text-align: center;
+	padding-left: 53px;
+	padding-right: 53px
+}
+.foto1{
+	background-image: url(../img/Metodologia.jpg);
+	
+}
+.foto2 img{
+	width: 9%;
+    margin-left: 317px;
+    margin-top: 56px;
+}
+.texto4 h1{
+	  color: white;
+  	  padding: 26px;
+  	  font-size: 33px;
+}
+.texto4 p{
+	color: white;
+	font-size: 24px;
+	/* padding: 39px; */
+	padding-bottom: 113px;
+}
+
+.imagen1 img{
+	width: 186px;
+
+}
+.servicios h1{
+	padding: 40px;
+	font-size: 45px;
+}
+
+.imagen1 p{
+	font-size: 15px;
+}
+.imagen5{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+.imagen4{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+.imagen3{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+.imagen2{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+.imagen1{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+.imagen6{
+	width: 185px;
+	margin: 0 auto;
+	padding-top:45px;
+}
+
+.servicios p{
+	padding-left: 138px;
+	padding-right: 138px;
+}
+.titulo7 h2{
+	text-align: center;
+	padding-left: 95px;
+	padding-top: 15px;
+	padding-right: 95px;
+	font-size: 25px;
+}
+.titulo1 h2{
+	text-align: center;
+	padding-left: 95px;
+	padding-top: 15px;
+	padding-right: 95px;
+	font-size: 25px;
+}
+.titulo4 h2{
+	text-align: center;
+	padding-left: 110px;
+	padding-top: 15px;
+	padding-right: 110px;
+	font-size: 25px;
+}
+.titulo3 h2{
+	text-align: center;
+	padding-left: 95px;
+	padding-top: 15px;
+	padding-right: 95px;
+	font-size: 25px;
+
+}
+.titulo2 h2{
+	text-align: center;
+	padding-left: 34px;
+	padding-top:15px; 
+	padding-right: 34px;
+	font-size: 25px;
+}
+.titulo h2{
+	text-align: center;
+	padding-left: 95px;
+	padding-top: 15px;
+	padding-right: 95px;
+	font-size: 25px;
+}
+.parrafo5 p{
+	padding: 8px;
+	font-size: 20px;
+	padding-left: 97px;
+	padding-right: 91px;
+	margin: 0 auto;
+}
+.parrafo4 p{
+	padding: 8px;
+	font-size: 21px;
+	padding-left: 60px;
+	padding-right: 60px;
+	margin: 0 auto;
+
+}
+.parrafo3 p{
+	padding: 30px;
+	font-size: 20px;
+	padding-left: 97px;
+	padding-right: 91px;
+	margin: 0 auto;
+}
+.parrafo2 p{
+	padding: 8px;
+	font-size: 20px;
+	padding-left: 97px;
+	padding-right: 91px;
+	margin: 0 auto;
+}
+.parrafo1 p{
+	padding: 32px;
+	font-size: 20px;
+	padding-left: 97px;
+	padding-right: 91px;
+	margin: 0 auto;
+	padding-bottom: 64px;
+}
+.parrafo p{
+	padding: 32px;
+	font-size: 20px;
+	padding-left: 74px;
+	padding-right: 66px;
+	margin: 0 auto;
+}
+.projectos{
+	background-color: #5E8039;
+}
+.projectos h3{
+	padding: 43px;
+	color: white;
+	font-size: 36px;
+	padding-left: 90px;
+}
+.foto3{
+	padding-left:73px;
+
+}
+.foto4{
+	padding-left: 73px;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+.content1 h1{
+	text-align: center;
+	padding: 44px;
+	color: white;
+}
+.content1 {
+	margin: 88px;
+}
+.content1 span{
+	font-size: 23px;
+	margin: 185px;
+	color: white;
+}
+.content1 p{
+	font-size: 26px;
+	text-align: center;
+	margin: 23px;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: white;
+}
+.content2 span{
+	font-size: 23px;
+	margin: 282px;
+	color: white;
+}
+
+.content2 p{
+	font-size: 26px;
+	text-align: center;
+	margin: 31px;
+	padding-left: 79px;
+	padding-right: 79px;
+	color: white;
+}
+.content2 h1{
+	color: white;
+}
+.equipo h1{
+	padding-right: 83%;
+	color: green;
+	font-size: 47px;
+}
+.joven{
+	width: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.joven h2{
+	text-align: center;
+}
+.joven span{
+	text-align: center;
+	padding-left: 109px;
+	font-size: 20px;
+}
+.joven p{
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 15px;
+	font-size: 24px;
+}
+.red{
+	width: 40px;
+	float: left;
+	margin: 44px 4px;
+}
+
+.redes-sociales{
+	margin-left: 39%;
+}
+.fondo{
+	background-image: url(../img/Blog.jpg);
+	height: 700px;
+}
+.blog-img img{
+	width: 392px;
+	margin: 11px 51px;
+}
+.blog-img h1{
+	padding-right: 224px;
+	color: gray;
+	padding-bottom: 4px;
+}
+.blog-img span{
+	margin: 0px 58px;
+}
+.blog-img p{
+	font-size: 10px;
+}
+p.parrafo {
+width: 82%;
+font-size: 22px;
+text-align: left;
+}
+.contactanos{
+	background-color: #4d4d4d;
+	padding: 70px;
+}
+
+.content-contactanos{
+	border: 2px solid white;
+}
+.img-contactanos{
+	width: 10%;
+	padding-top: 49%;
+	margin-left: 283px;
+	margin-bottom: 17px;
+	
+}
+.contactanos-titulo h2{
+	color: white;
+	font-size: 31px;
+	/* padding: 17px; */
+	margin-top: 14px;
+	margin-left: 26px;
+}
+img.border{
+	border-radius: 23px;
+}
+/*footer*/
+.footer {
+	padding: 50px;
+}
+
+.laboratoria1 a{
+	color: orange;
+	text-decoration: none;
+	text-transform: none;
+	padding-left: 3px;
+}
+
+
+.laboratoria {
+	width: 20%;
+	float: left;
+	margin-right: 5%;
+}
+
+.footer .derecha {
+	text-align: right;
+}
